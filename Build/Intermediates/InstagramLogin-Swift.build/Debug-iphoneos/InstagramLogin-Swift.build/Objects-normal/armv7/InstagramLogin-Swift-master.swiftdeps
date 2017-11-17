@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f5f3e47bf89433dc660dbc6993fa9c9f"
+build_time: [557205365, 612096000]
+inputs:
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/InitialViewController.swift": [555761668, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/ViewController.swift": [556879352, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/AppDelegate.swift": [555746279, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/InstagramLoginVC.swift": [556700195, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/GetCoins.swift": [556876058, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/PopUpPost.swift": [556877411, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/GetFollowers.swift": [556877429, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/buyFromStore.swift": [556716000, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/InstagramLogin-Swift/Constant.swift": [556784666, 0]

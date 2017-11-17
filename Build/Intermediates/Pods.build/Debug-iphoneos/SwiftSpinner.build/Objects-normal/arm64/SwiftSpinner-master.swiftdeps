@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4694f1d222f1d9e1a80678ec1fc2b03d"
+build_time: [556865030, 137653000]
+inputs:
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/SwiftSpinner/SwiftSpinner/SwiftSpinner.swift": [555752608, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "bd70458b73aaff533040788815dcb05d"
+build_time: [556862114, 46804000]
+inputs:
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/LIHAlert/Pod/Classes/LIHAlert.swift": [555752608, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/LIHAlert/Pod/Classes/LIHAlertManager.swift": [555752608, 0]

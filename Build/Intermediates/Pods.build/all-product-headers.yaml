@@ -1,0 +1,146 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/LIHAlert/LIHAlert.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LIHAlert-Swift.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/LIHAlert/LIHAlert.framework/Headers/LIHAlert-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LIHAlert-umbrella.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Target Support Files/LIHAlert/LIHAlert-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/LIHAlert/LIHAlert.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Intermediates/Pods.build/Debug-iphonesimulator/LIHAlert.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/Pods_InstagramLogin_Swift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-InstagramLogin-Swift-umbrella.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Target Support Files/Pods-InstagramLogin-Swift/Pods-InstagramLogin-Swift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_InstagramLogin_Swift-Swift.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/Pods_InstagramLogin_Swift.framework/Headers/Pods_InstagramLogin_Swift-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/Pods_InstagramLogin_Swift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-InstagramLogin-Swift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftSpinner-Swift.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSpinner-umbrella.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Target Support Files/SwiftSpinner/SwiftSpinner-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSpinner.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/SwiftSpinner/SwiftSpinner/SwiftSpinner.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftSpinner.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

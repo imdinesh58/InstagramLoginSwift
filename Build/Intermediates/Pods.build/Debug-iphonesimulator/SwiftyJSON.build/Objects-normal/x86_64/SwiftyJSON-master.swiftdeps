@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "00126d5afd1473be0030cfe0d1755596"
+build_time: [556862128, 505109000]
+inputs:
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [555752608, 0]

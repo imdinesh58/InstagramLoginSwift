@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4d71dc791dd8a2407d6225b710d82095"
+build_time: [556865045, 167883000]
+inputs:
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/AFError.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Alamofire.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/MultipartFormData.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Notifications.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/ParameterEncoding.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Request.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Response.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/ResponseSerialization.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Result.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/ServerTrustPolicy.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/SessionDelegate.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/SessionManager.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/TaskDelegate.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Timeline.swift": [555752607, 0]
+  "/Users/apple-1/Documents/xCode/InstagramLogin-Swift/Pods/Alamofire/Source/Validation.swift": [555752607, 0]
